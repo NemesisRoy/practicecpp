@@ -37,10 +37,6 @@ This project is a web-based platform for C++ coding challenges. Users can solve 
 3. Select a difficulty level and solve the presented C++ challenge.
 4. Submit your solution to receive feedback.
 
-## Contributing
-
-This project is currently under development. Contributions, suggestions, and feedback are welcome!
-
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
